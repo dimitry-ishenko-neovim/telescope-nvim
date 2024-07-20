@@ -1,0 +1,2 @@
+autoload data doc ftplugin lua plugin usr/share/telescope-nvim
+debian/telescope.vim etc/skel/.config/nvim/plugin
