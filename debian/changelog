@@ -1,3 +1,9 @@
+telescope-nvim (0.1.8-2) unstable; urgency=medium
+
+  * Fix plenary dep
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sat, 20 Jul 2024 00:59:26 -0400
+
 telescope-nvim (0.1.8-1) unstable; urgency=medium
 
   * Initial release.
