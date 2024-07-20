@@ -13,7 +13,7 @@ Rules-Requires-Root: no
 
 Package: telescope-nvim
 Architecture: all
-Depends: ${shlibs:Depends}, neovim (>= 0.9), plenary-vim
+Depends: ${shlibs:Depends}, neovim (>= 0.9), plenary-nvim
 Description: Gaze deeply into unknown regions using the power of the moon
  telescope-nvim is a highly extendable fuzzy finder over lists. Built on the
  latest awesome features from neovim core. Telescope is centered around
