@@ -4,9 +4,9 @@ Upstream-Name: telescope.nvim
 Upstream-Contact: Simon Hauser <Simon-Hauser@outlook.de>
 
 Files: *
-Copyright: 2020-2024 The telescope.nvim authors
-License: MIT
+Copyright: 2020-2021, nvim-telescope
+License: Expat
 
 Files: debian/*
-Copyright: 2024 Dimitry Ishenko <dimitry.ishenko@gmail.com>
-License: GPL-3.0+
+Copyright: 2024-2025, Dimitry Ishenko <dimitry.ishenko@gmail.com>
+License: GPL-2+
