@@ -17,6 +17,9 @@ Depends:
  ${shlibs:Depends},
  neovim (>= 0.9),
  plenary-nvim,
+Recommends:
+ nvim-treesitter,
+ ripgrep,
 Description: Gaze deeply into unknown regions using the power of the moon
  telescope-nvim is a highly extendable fuzzy finder over lists. Built on the
  latest awesome features from neovim core. Telescope is centered around
