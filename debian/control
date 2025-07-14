@@ -14,7 +14,8 @@ Rules-Requires-Root: no
 Package: telescope-nvim
 Architecture: all
 Depends:
- ${shlibs:Depends},
+ ${misc:Depends},
+ ${vim-addon:Depends},
  neovim (>= 0.9),
  plenary-nvim,
 Recommends:
