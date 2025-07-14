@@ -1,3 +1,11 @@
+telescope-nvim (0.1.8-5) unstable; urgency=medium
+
+  * telescope.lua: add fr map
+  * telescope.lua: sort
+  * d/control: add missing dep
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 14 Jul 2025 01:10:47 -0400
+
 telescope-nvim (0.1.8-4) unstable; urgency=medium
 
   * d/control: recommend web-devicons-nvim
